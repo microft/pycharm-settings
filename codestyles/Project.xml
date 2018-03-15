@@ -49,7 +49,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Python">
-    <option name="RIGHT_MARGIN" value="80" />
+    <option name="RIGHT_MARGIN" value="100" />
     <option name="WRAP_LONG_LINES" value="true" />
     <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
